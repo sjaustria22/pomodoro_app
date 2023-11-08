@@ -12,7 +12,7 @@ const ToggleButton = ({ pomodoro, setPomodoro }) => {
     <button
       onClick={togglePausePlay}
       className="text-base uppercase tracking-[0.5rem]">
-      {pomodoro.isPaused ? "Başlat" : "Durdur"}
+      {pomodoro.isPaused ? "start" : "pause"}
     </button>
   );
 };
