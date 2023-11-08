@@ -80,9 +80,9 @@ This project developed with React and styled with Tailwindcss.
 
 ## <strong>Contact<strong>
 
-Birkan Yılmaz - [@twitter](https://twitter.com/adimcikmis9a) - birkanyilmaz41@gmail.com
 
-Project Link: [https://github.com/birkaany/pomodoro-app/](https://github.com/birkaany/pomodoro-app)
+Project Link: [https://github.com/sjaustria22/pomodoro_app]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
