@@ -31,21 +31,13 @@
     Simple Pomodoro Timer
     <br />
     <br />
-    <a href="https://birkaany-pomodoro-app.vercel.app/">View Demo</a>
-    ·
-    <a href="https://github.com/birkaany/pomodoro-app/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/birkaany/pomodoro-app/issues">Request Feature</a>
+    <a href="https://pomodoro-app12.netlify.app/">View Demo</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 
 ## <strong>About The Project</strong>
-
-
-
-![https://i.hizliresim.com/s7odewh.png](https://i.hizliresim.com/s7odewh.png)
 
 
 
